@@ -1,0 +1,24 @@
+p {
+	color: red;
+	font-size:50px;
+}
+
+.boxOne {
+	width:100%;
+	height:300px;
+	background-color:grey;
+}
+
+.boxTwo {
+	width:45%;
+	height:300px;
+	border: 10px solid black;
+	float:left;
+}
+
+.boxThree {
+	width:49%;
+	height:300px;
+	border: 10px solid orange;
+	float:left;
+}
